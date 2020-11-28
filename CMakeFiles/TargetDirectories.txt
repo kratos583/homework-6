@@ -1,3 +1,0 @@
-D:/homework/homework-6/CMakeFiles/hello.dir
-D:/homework/homework-6/CMakeFiles/edit_cache.dir
-D:/homework/homework-6/CMakeFiles/rebuild_cache.dir
