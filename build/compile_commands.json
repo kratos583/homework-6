@@ -1,0 +1,12 @@
+[
+{
+  "directory": "D:/obiect1/build",
+  "command": "D:\\PROGRA~1\\GCC\\bin\\X86_64~2.EXE  @CMakeFiles/solution.dir/includes_CXX.rsp -g -o CMakeFiles\\solution.dir\\src\\main.cpp.obj -c D:\\obiect1\\src\\main.cpp",
+  "file": "D:/obiect1/src/main.cpp"
+},
+{
+  "directory": "D:/obiect1/build",
+  "command": "D:\\PROGRA~1\\GCC\\bin\\X86_64~2.EXE  @CMakeFiles/solution.dir/includes_CXX.rsp -g -o CMakeFiles\\solution.dir\\src\\solution.cpp.obj -c D:\\obiect1\\src\\solution.cpp",
+  "file": "D:/obiect1/src/solution.cpp"
+}
+]
